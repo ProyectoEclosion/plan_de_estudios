@@ -37,6 +37,7 @@ Fase 6:
 
 
 Módulo 0: ¿Qué es esto?
+
   - ¿Cuál es el objetivo? Nuestra misión y nuestros valores
   - Los trabajos digitales, demanda y oferta
   - Casos de éxito: De zona deprimida a hub de empleo digital
@@ -46,7 +47,9 @@ Módulo 0: ¿Qué es esto?
   - Qué esperar del proyecto eclosión. Qué se espera de ti
   - Ayuda, tutores y sentido de comunidad
   - ¡En marcha! Preparando tu ordenador y tu entorno de desarrollo
+
 Módulo 1: Introducción al pensamiento computacional usando Javascript
+
   - Jugando con Scratch. Proyectos básicos
   - Tipos de datos básicos (String, Integer, Float ) 
   - Introducción a Javascript
@@ -54,13 +57,19 @@ Módulo 1: Introducción al pensamiento computacional usando Javascript
   - Resolviendo problemas con código
   - Algoritmos de ordenación
   - Algoritmos de búsqueda
+
 Módulo 2: Internet, conceptos básicos e introducción a HTML y CSS
+
   - ¿Qué es Internet? ¿Cómo funciona?
   - Introducción a HTML y CSS
   - Bootstrap
+
 Módulo 3: Javascript en la web. JQuery y otras librerías
+
 Módulo 4: Bases de datos
+
 Módulo 5a: Ruby / Ruby on Rails
+
 Módulo 5b: Programación para móviles
 
 
