@@ -1,5 +1,5 @@
 # FASES DE DESARROLLO DEL PROYECTO ECLOSIÓN 
-------------
+
 Estamos en: Fase 1
 ------------
 Fase 1: 
