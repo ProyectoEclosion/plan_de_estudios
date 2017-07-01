@@ -1,7 +1,7 @@
 # Plan de estudios 
 
 - El plan de estudios debe estar íntegramente en español.
-- Se debe limitar al máximo el número de módulos, y cada módulo podrá tener tantas unidades como sea neceario.
+- Se debe limitar al máximo el número de módulos, y cada módulo podrá tener tantas unidades como sea necesario.
 - Terminar un módulo debe significar haber adquirido una buena cantidad de conocimiento. Debe ser duro pero asequible, y se recomienda tener en cuenta aspectos psicológicos del estudiante que le hagan ver avances.
 --------
 
