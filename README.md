@@ -1,2 +1,2 @@
-# plan_de_estudios
+# Plan de estudios
 plan de estudios del proyecto
