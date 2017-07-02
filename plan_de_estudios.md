@@ -20,9 +20,12 @@
 # Módulo 1: Introducción al pensamiento computacional usando Javascript
 
   - Jugando con Scratch. Proyectos básicos
-  - Tipos de datos básicos (String, Integer, Float ) 
+  - Tipos de datos básicos (String, Integer, Float, Booleanos ) 
   - Introducción a Javascript
   - Estructuras de datos básicas (Arrays y Hashes)
+  - Operadores
+  - Control de flujo
+  - Introduccion a las funciones
   - Resolviendo problemas con código
   - Algoritmos de ordenación
   - Algoritmos de búsqueda
@@ -30,11 +33,21 @@
 # Módulo 2: Internet, conceptos básicos e introducción a HTML y CSS
 
   - ¿Qué es Internet? ¿Cómo funciona?
-  - Introducción a HTML y CSS
-  - Bootstrap
+  - Introducción a HTML y CSS.
+  - Usando Codepen para aprender
+  - HTML. Etiquetas y atributos
+  - CSS. 
+  - Cómo introducir CSS en el código HTML
+  - DRY CSS
+  - Formularios
+  - Diseño responsive y Bootstrap
+  - HTML y CSS avanzado
+  - Sass
 
 # Módulo 3: Javascript en la web. JQuery y otras librerías
-
+  - El DOM, qué es y para qué sirve?
+  - Las etiquetas script, incluir JS en la web
+  - JQuery
 # Módulo 4: Bases de datos
 
 # Módulo 5a: Ruby / Ruby on Rails
