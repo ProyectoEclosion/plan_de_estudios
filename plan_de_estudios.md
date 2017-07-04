@@ -22,8 +22,8 @@
   - Jugando con Scratch. Proyectos básicos
   - Tipos de datos básicos (String, Integer, Float, Booleanos ) 
   - Introducción a Javascript
-  - Estructuras de datos básicas (Arrays y Hashes)
   - Operadores
+  - Estructuras de datos básicas (Arrays y Hashes). JSON
   - Control de flujo
   - Introduccion a las funciones
   - Resolviendo problemas con código
@@ -47,17 +47,31 @@
 # Módulo 3: Javascript en la web. JQuery y otras librerías
   - El DOM, qué es y para qué sirve?
   - Las etiquetas script, incluir JS en la web
+  - La web en movimiento
   - JQuery
 # Módulo 4: Bases de datos
+  - Qué son las bases de datos
+  - Bases de datos relacionales
+  - SQL
 
 # Módulo 5a: Ruby / Ruby on Rails
-
+  - Introducción a Ruby y Rails
+  - Ruby: Un lenguaje facilón
+  - CRUD
+  - MVC: introducción
+  - MVC avanzado
+  - Rutas
+  - Construye un clon de Twitter / Airbnb
+  - REST APIs, el futuro
+  - Serializers
 # Módulo 5b: Programación para móviles
-
+  - TODO
 
 # Módulo extra(desbloqueado a partir del módulo 4): El programador en el mundo real
   - Control de versiones. GIT, GITHUB
   - Metodologías ágiles
+  - Trello y Jira
+  - Slack
   - Estructura de una web real
   - Tu portfolio
   - Entrevistas de trabajo
