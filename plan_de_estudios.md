@@ -20,7 +20,7 @@
   - Introducción a sistemas UNIX. Uso del terminal. SSH
   - **Proyecto:** Rellena tus datos en nuestro servidor
 
-# Módulo 1: Introducción al pensamiento computacional usando Javascript
+# Módulo 1: Introducción al jaleo informático usando Javascript
 
   - Jugando con Scratch. Proyectos básicos
   - **Proyecto:** Crea un juego con Scratch
@@ -54,6 +54,7 @@
   - **Proyecto:** Crea tu página portfolio
   - HTML y CSS avanzado
   - Sass
+  - Un poco de UI y UX
   
 
 # Módulo 3: Javascript en la web. JQuery y otras librerías
