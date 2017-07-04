@@ -49,6 +49,8 @@
   - Las etiquetas script, incluir JS en la web
   - La web en movimiento
   - JQuery
+  - CoffeScript
+  - Otras librerías: React, Angular...
 # Módulo 4: Bases de datos
   - Qué son las bases de datos
   - Bases de datos relacionales
